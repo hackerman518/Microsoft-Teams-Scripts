@@ -1,7 +1,7 @@
 ﻿# Bulk update Teams displaynames
 
 # Author Maarten Camps
-# Camarate ICT B.V.
+
 
 $teams = Get-Team
 
